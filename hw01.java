@@ -4,5 +4,4 @@ public class hw01{
         System.out.println("Welcome to Computer Science");
         System.out.println("Programming is fun");
     }
-
 }
