@@ -16,5 +16,12 @@ public class Main {
         sub.display();
         multi.display();
         division.display();
+
+
+        Student student = new Student("Pham Tuan Anh", "Ha Noi", "tuananhpvpl@gmail.com","0918545148","2121050807");
+        student.Study();
+        student.Homework();
+        student.pay();
+        student.test();
     }
 }
