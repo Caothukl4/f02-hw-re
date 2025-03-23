@@ -1,0 +1,1 @@
+Hello, đây là nội dung được ghi vào file bằng try-with-resources!
