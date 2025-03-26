@@ -1,3 +1,5 @@
+package exception;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -57,7 +59,7 @@ class StudentManager{
         }
     }
 
-    //show Student
+    //show exception.Student
     public void showStudent(){
         try {
             if(studentList.isEmpty()){
