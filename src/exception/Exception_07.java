@@ -1,3 +1,5 @@
+package exception;
+
 public class Exception_07 {
     public static void main(String[] args) {
     BankAccount bankAccount = new BankAccount(500000);
